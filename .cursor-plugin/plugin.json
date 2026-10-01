@@ -1,0 +1,16 @@
+{
+  "name": "akta-pro",
+  "displayName": "akta.pro",
+  "version": "1.0.0",
+  "description": "Company data, news and signals for agents. Free credits on signup, top-ups from $1.",
+  "author": {
+    "name": "akta.pro",
+    "email": "support@akta.pro"
+  },
+  "homepage": "https://akta.pro",
+  "license": "MIT",
+  "repository": "https://github.com/akta-pro/plugin-cursor",
+  "keywords": ["akta.pro", "company-data", "company-enrichment", "data-enrichment", "enrichment", "firmographics", "private-companies", "private-company-data", "company-intelligence", "market-intelligence", "sales-intelligence", "competitive-intelligence", "gtm", "lead-generation", "prospecting", "account-research", "signals", "buying-signals", "news-signals", "company-news", "social-signals", "funding", "funding-rounds", "mergers-and-acquisitions", "investors", "private-equity", "venture-capital", "deal-sourcing", "due-diligence", "alternative-data", "headcount", "hiring", "job-posts", "web-traffic", "reviews", "employee-reviews", "product-reviews", "social-posts", "mcp"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "mcp.json"
+}
